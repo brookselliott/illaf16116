@@ -1,0 +1,10 @@
+/*Team*/
+Your title: Brooks Elliott
+Site: ilovelookingatfaces.com (lol, only live project at this time)
+Email: ilovelookingafaces@icloud.com
+Location: Chicago
+
+/*Site*/
+Standards: HTML(5), CSS(3), with a few Apple-native touches.
+Components: none really, html5 and css3 and maybe apple's safari mobile javascript …but "html5" has everything I need, stock. 
+Software: lol, my mind--just safari's textboxes, and occasionlly xcode or textedit s a plain text editor.
